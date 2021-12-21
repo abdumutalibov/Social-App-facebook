@@ -1,52 +1,52 @@
 export const Users = [
     {
         id:1,
-        profilePicture: 'assets/person/person1.jpg',
+        profilePicture: 'person/person1.jpg',
         username: 'Safak Kocaoglu'
     },
      {
         id:2,
-        profilePicture: 'assets/person/person2.jpg',
+        profilePicture: 'person/person2.jpg',
         username: 'Mary Amelia'
     },
     {
         id:3,
-        profilePicture: 'assets/person/person3.jpg',
+        profilePicture: 'person/person3.jpg',
         username: 'Sarah Isla'
     },
     {
         id:4,
-        profilePicture: 'assets/person/person4.jpg',
+        profilePicture: 'person/person4.jpg',
         username: 'Alice Ava'
     },
     {
         id:5,
-        profilePicture: 'assets/person/person5.jpg',
+        profilePicture: 'person/person5.jpg',
         username: 'Annie Lily'
     },
     {
         id:6,
-        profilePicture: 'assets/person/person6.jpg',
+        profilePicture: 'person/person6.jpg',
         username: 'Susan Ella'
     },
     {
         id:7,
-        profilePicture: 'assets/person/7.jpeg',
+        profilePicture: 'person/7.jpeg',
         username: 'Dorothy Isabell'
     },
     {
         id:8,
-        profilePicture: 'assets/person/8.jfif',
+        profilePicture: 'person/8.jfif',
         username: 'Catherine Chole'
     },
     {
         id:9,
-        profilePicture: 'assets/person/9.jfif',
+        profilePicture: 'person/9.jfif',
         username: 'Annie Lily'
     },
     {
         id:10,
-        profilePicture: 'assets/person/10.jpg',
+        profilePicture: 'person/10.jpg',
         username: 'Ethel Sienna'
     },
 ]
@@ -55,7 +55,7 @@ export const Posts = [
     {
         id:2,
         desc: 'Lover For All, Hatred For None.',
-        photo: 'assets/metro.jfif',
+        photo: 'metro.jfif',
         date: '5 mins ago',
         userId: 1,
         like: 32,
@@ -64,7 +64,7 @@ export const Posts = [
     {
         id:2,
         desc: 'Lover For All, Hatred For None.',
-        photo: 'assets/more.jpg',
+        photo: 'more.jpg',
         date: '50 mins ago',
         userId: 2,
         like: 12,
@@ -73,7 +73,7 @@ export const Posts = [
     {
         id:3,
         desc: 'Lover For All, Hatred For None.',
-        photo: 'assets/more1.jpg',
+        photo: 'more1.jpg',
         date: '16 mins ago',
         userId: 3,
         like: 22,
@@ -82,7 +82,7 @@ export const Posts = [
     {
         id:4,
         desc: 'Lover For All, Hatred For None.',
-        photo: 'assets/more3.jpg',
+        photo: 'more3.jpg',
         date: '18 mins ago',
         userId: 4,
         like: 7,
@@ -91,7 +91,7 @@ export const Posts = [
     {
         id:5,
         desc: 'Lover For All, Hatred For None.',
-        photo: 'assets/narod.jpg',
+        photo: 'narod.jpg',
         date: '20 mins ago',
         userId: 5,
         like: 32,
@@ -100,7 +100,7 @@ export const Posts = [
     {
         id:6,
         desc: 'Lover For All, Hatred For None.',
-        photo: 'assets/semchka.jpg',
+        photo: 'semchka.jpg',
         date: '1 mins ago',
         userId: 6,
         like: 14,
@@ -109,7 +109,7 @@ export const Posts = [
     {
         id:7,
         desc: 'Lover For All, Hatred For None.',
-        photo: 'assets/car.jpg',
+        photo: 'car.jpg',
         date: '30 mins ago',
         userId: 7,
         like: 67,
@@ -118,7 +118,7 @@ export const Posts = [
     {
         id:8,
         desc: 'Lover For All, Hatred For None.',
-        photo: 'assets/bich.jpg',
+        photo: 'bich.jpg',
         date: '15 mins ago',
         userId: 8,
         like: 2,
@@ -127,7 +127,7 @@ export const Posts = [
     {
         id:9,
         desc: 'Lover For All, Hatred For None.',
-        photo: 'assets/actor.jpg',
+        photo: 'actor.jpg',
         date: '44 mins ago',
         userId: 9,
         like: 19,
@@ -136,7 +136,7 @@ export const Posts = [
     {
         id:10,
         desc: 'Lover For All, Hatred For None.',
-        photo: 'assets/girl.jpg',
+        photo: 'girl.jpg',
         date: '4 mins ago',
         userId: 10,
         like: 30,

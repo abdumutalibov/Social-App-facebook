@@ -17,9 +17,10 @@ const likeHandler = () =>{
             <div className="postWrapper">
                 <div className="postTop">
                     <div className="postTopLeft">
-                        <img className='postProfileImg' src={Users.filter((u) => u.id === post.userId )[0].profilePicture}/>
+                        <img className='postProfileImg' alt="" src={Users.filter((u) => u.id === post.userId )[0].profilePicture}/>
                         <span className='postUsername'> {Users.filter((u) => u.id === post.userId )[0].username}</span>
                         <span className='postDate'>{post.date}</span>
+                        <img src=""  />
                     </div>
                     <div className="postTopRight">
 <MoreVert/>
